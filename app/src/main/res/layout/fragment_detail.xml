@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/scrollView" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:background="#fffff4f2" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:paddingLeft="15.0dip" android:paddingTop="15.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:id="@id/textViewName" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DetailsTitle" />
+                <TextView android:id="@id/textViewDescription" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewDefinitionLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/definition" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewDefinition" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewSymptomsLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/symptoms" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewSimphtoms" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewCausesLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/causes" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewCauses" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewRiskFactorsLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/riskfactors" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewRiskFactors" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewComplicationsLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Complications" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewComplications" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewPreparingAppointmentLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/preparingappointment" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewPreparingAppointment" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewTestsDiagnosisLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/testsdiagnosis" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewTestsDiagnosis" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewTreatmentLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/treatment" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewTreatment" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/textViewLifestyleRemediesLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/lifestyleremedies" style="@style/DetailsSubTitle" />
+                <TextView android:id="@id/textViewLifestyleRemedies" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

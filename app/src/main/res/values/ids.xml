@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="home" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="action_bar_root"/>
+    <item type="id" name="action_bar_container"/>
+    <item type="id" name="action_bar"/>
+    <item type="id" name="action_context_bar"/>
+    <item type="id" name="split_action_bar"/>
+    <item type="id" name="action_bar_overlay_layout"/>
+    <item type="id" name="top_action_bar"/>
+    <item type="id" name="up"/>
+    <item type="id" name="action_bar_title"/>
+    <item type="id" name="action_bar_subtitle"/>
+    <item type="id" name="action_mode_close_button"/>
+    <item type="id" name="activity_chooser_view_content"/>
+    <item type="id" name="expand_activities_button"/>
+    <item type="id" name="image"/>
+    <item type="id" name="default_activity_button"/>
+    <item type="id" name="list_item"/>
+    <item type="id" name="icon"/>
+    <item type="id" name="title"/>
+    <item type="id" name="expanded_menu"/>
+    <item type="id" name="checkbox"/>
+    <item type="id" name="shortcut"/>
+    <item type="id" name="radio"/>
+    <item type="id" name="edit_query"/>
+    <item type="id" name="search_bar"/>
+    <item type="id" name="search_badge"/>
+    <item type="id" name="search_button"/>
+    <item type="id" name="search_edit_frame"/>
+    <item type="id" name="search_mag_icon"/>
+    <item type="id" name="search_plate"/>
+    <item type="id" name="search_src_text"/>
+    <item type="id" name="search_close_btn"/>
+    <item type="id" name="submit_area"/>
+    <item type="id" name="search_go_btn"/>
+    <item type="id" name="search_voice_btn"/>
+    <item type="id" name="home_layout"/>
+    <item type="id" name="ad_layout"/>
+    <item type="id" name="detail_container"/>
+    <item type="id" name="adView"/>
+    <item type="id" name="titles_list"/>
+    <item type="id" name="progresslayout"/>
+    <item type="id" name="progressBar"/>
+    <item type="id" name="textView"/>
+    <item type="id" name="imageView2"/>
+    <item type="id" name="imageView"/>
+    <item type="id" name="textVers"/>
+    <item type="id" name="layoutViewFio"/>
+    <item type="id" name="textView3"/>
+    <item type="id" name="textOtherApp"/>
+    <item type="id" name="textViewFullHref"/>
+    <item type="id" name="textView33"/>
+    <item type="id" name="textView333"/>
+    <item type="id" name="btnYes"/>
+    <item type="id" name="profileUpdate"/>
+    <item type="id" name="scrollView"/>
+    <item type="id" name="textViewName"/>
+    <item type="id" name="textViewDescription"/>
+    <item type="id" name="textViewDefinitionLabel"/>
+    <item type="id" name="textViewDefinition"/>
+    <item type="id" name="textViewSymptomsLabel"/>
+    <item type="id" name="textViewSimphtoms"/>
+    <item type="id" name="textViewCausesLabel"/>
+    <item type="id" name="textViewCauses"/>
+    <item type="id" name="textViewRiskFactorsLabel"/>
+    <item type="id" name="textViewRiskFactors"/>
+    <item type="id" name="textViewComplicationsLabel"/>
+    <item type="id" name="textViewComplications"/>
+    <item type="id" name="textViewPreparingAppointmentLabel"/>
+    <item type="id" name="textViewPreparingAppointment"/>
+    <item type="id" name="textViewTestsDiagnosisLabel"/>
+    <item type="id" name="textViewTestsDiagnosis"/>
+    <item type="id" name="textViewTreatmentLabel"/>
+    <item type="id" name="textViewTreatment"/>
+    <item type="id" name="textViewLifestyleRemediesLabel"/>
+    <item type="id" name="textViewLifestyleRemedies"/>
+    <item type="id" name="progressContainer"/>
+    <item type="id" name="listContainer"/>
+    <item type="id" name="internalEmpty"/>
+    <item type="id" name="textTitle"/>
+    <item type="id" name="imageViewTitleList"/>
+    <item type="id" name="action_settings"/>
+    <item type="id" name="action_favorites"/>
+    <item type="id" name="action_search"/>
+    <item type="id" name="action_item_about"/>
+    <item type="id" name="action_share"/>
+    <item type="id" name="list"/>
+</resources>

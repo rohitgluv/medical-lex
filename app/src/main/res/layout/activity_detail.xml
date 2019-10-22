@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/home_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/ad_layout" >
+        <FrameLayout android:id="@id/detail_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android" />
+    </LinearLayout>
+    <LinearLayout android:gravity="bottom" android:id="@id/ad_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <com.google.android.gms.ads.AdView android:id="@id/adView" android:layout_width="fill_parent" android:layout_height="wrap_content" ads:adSize="SMART_BANNER" ads:adUnitId="@string/adbMobUnitId" xmlns:ads="http://schemas.android.com/apk/res-auto" />
+    </LinearLayout>
+</RelativeLayout>

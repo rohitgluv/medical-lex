@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textInList">18.0sp</dimen>
+    <dimen name="license_notice_title">22.0sp</dimen>
+    <dimen name="license_notice_text">16.0sp</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14.0dip</dimen>
+    <dimen name="abc_action_bar_title_text_size">18.0dip</dimen>
+    <dimen name="abc_action_bar_default_height">48.0dip</dimen>
+    <dimen name="dialog_fixed_width_major">320.0dip</dimen>
+    <dimen name="dialog_fixed_width_minor">320.0dip</dimen>
+    <item type="dimen" name="dialog_fixed_height_major">79.99999%</item>
+    <item type="dimen" name="dialog_fixed_height_minor">100.0%</item>
+    <dimen name="abc_action_button_min_width">56.0dip</dimen>
+</resources>
